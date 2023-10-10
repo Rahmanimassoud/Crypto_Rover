@@ -1,8 +1,18 @@
-# React + Vite
+Cryp_roVER - Explore the World of Cryptocurrency
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+⚠️ Before you start
+Make sure Git and NodeJS is installed
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Enable these two APIs for crypto details and news data: API 1: Coinranking and API 2: YahooFinance.
+
+📌 How to use this App?
+Open terminal in root directory.
+run npm install and run npm run dev
+
+📃 Built with
+
+React Redux/ATK Query and Rapid API 
+
+🔧 Stats
+Stats for this App
