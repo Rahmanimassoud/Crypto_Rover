@@ -36,6 +36,6 @@ You will need to enable two APIs for crypto details and news data:
 5.Push your branch to your fork.
 6.Open a pull request to the original repository with a clear description of your changes.
 
-## Visit the website in the following address:
+## Visit the website in the following address: 
 
 
