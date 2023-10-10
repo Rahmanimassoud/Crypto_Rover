@@ -16,7 +16,7 @@ You will need to enable two APIs for crypto details and news data:
 
 ## 📌 How to Use This App?
 1. Open your terminal in the root directory of the project.
-2. Clone the repository to your local machine using the following link: https://github.com/Rahmanimassoud/Shoping_APP_DOM
+2. Clone the repository to your local machine using the following link:https://github.com/Rahmanimassoud/Crypto_Rover
 3. Open the project folder in your code editor.
 
 
